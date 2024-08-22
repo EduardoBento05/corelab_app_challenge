@@ -2,7 +2,15 @@
 
 Bem-vindo ao Desafio do Aplicativo Corelab! Este projeto é uma aplicação Flutter desenvolvida para implementar a página de pesquisa de produtos, com base em um mockup Figma fornecido.
 
-## Imagens do jogo
+## Imagens do App
+<p align="center">
+  <img src="https://github.com/EduardoBento05/corelab_app_challenge/blob/main/assets/images/1.png" width="300">
+  <img src="https://github.com/EduardoBento05/corelab_app_challenge/blob/main/assets/images/2.png" width="300">
+  <img src="https://github.com/EduardoBento05/corelab_app_challenge/blob/main/assets/images/3.png" width="300">
+    <img src="https://github.com/EduardoBento05/corelab_app_challenge/blob/main/assets/images/4.png" width="300">
+    <img src="https://github.com/EduardoBento05/corelab_app_challenge/blob/main/assets/images/5.png" width="300">
+    <img src="https://github.com/EduardoBento05/corelab_app_challenge/blob/main/assets/images/6.png" width="300">
+</p>
 
 ## Visão Geral do Projeto
 
